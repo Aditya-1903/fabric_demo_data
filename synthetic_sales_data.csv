@@ -1,0 +1,51 @@
+﻿OrderID,Date,ProductCategory,ProductName,Revenue,Cost,Quantity,Region
+1001,3/14/2025,Electronics,Pixel,512.34,320.5,2,North
+1002,3/15/2025,Clothing,Orbit,89.5,45.1,1,East
+1003,Mar 16 2025,Furniture,Nova,450,300,3,West
+1004,3/17/2025,Electronics,Zenith,750.75,500.2,1,South
+1005,3/18/2025,Toys,Orbit,120,70,4,North
+1006,Mar 19 2025,Books,Luna,25.5,15.3,2,East
+1007,3/20/2025,Clothing,Stellar,95,60,1,West
+1008,3/21/2025,Electronics,Nova,620,400,1,North
+1009,Mar 22 2025,Furniture,Pixel,330,200,2,South
+1010,3/23/2025,Toys,Orion,80,50,3,East
+1011,3/24/2025,Electronics,Stellar,540,350,2,West
+1012,3/25/2025,Clothing,Luna,75,40,1,North
+1013,Mar 26 2025,Furniture,Nova,400,250,2,East
+1014,3/27/2025,Electronics,Orion,680,420,1,South
+1015,3/28/2025,Toys,Pixel,90,60,2,West
+1016,3/29/2025,Books,Stellar,35,20,1,North
+1017,3/30/2025,Clothing,Orion,110,70,2,East
+1018,3/31/2025,Electronics,Luna,500,300,1,West
+1019,4/1/2025,Furniture,Pixel,360,220,3,South
+1020,Apr 02 2025,Toys,Nova,75,45,2,North
+1021,4/3/2025,Electronics,Orion,640,400,1,East
+1022,4/4/2025,Clothing,Pixel,95,55,1,West
+1023,4/5/2025,Furniture,Luna,420,270,2,North
+1024,4/6/2025,Electronics,Stellar,580,360,1,South
+1025,4/7/2025,Toys,Orion,85,50,3,East
+1026,4/8/2025,Books,Pixel,28,15,1,West
+1027,4/9/2025,Clothing,Luna,100,65,2,North
+1028,4/10/2025,Electronics,Nova,550,330,1,East
+1029,4/11/2025,Furniture,Orion,390,240,2,West
+1030,4/12/2025,Toys,Stellar,95,60,1,South
+1031,4/13/2025,Electronics,Pixel,620,400,2,North
+1032,4/14/2025,Clothing,Orion,90,55,1,East
+1033,4/15/2025,Furniture,Luna,430,280,2,West
+1034,4/16/2025,Electronics,Stellar,500,320,1,South
+1035,4/17/2025,Toys,Pixel,80,50,3,North
+1036,4/18/2025,Books,Nova,30,18,1,East
+1037,4/19/2025,Clothing,Stellar,105,65,2,West
+1038,4/20/2025,Electronics,Luna,580,350,1,North
+1039,4/21/2025,Furniture,Orion,410,260,2,East
+1040,4/22/2025,Toys,Nova,88,55,1,West
+1041,4/23/2025,Electronics,Pixel,630,400,1,South
+1042,4/24/2025,Clothing,Luna,95,60,2,North
+1043,4/25/2025,Furniture,Stellar,420,270,2,East
+1044,4/26/2025,Electronics,Orion,540,330,1,West
+1045,4/27/2025,Toys,Pixel,78,50,3,South
+1046,4/28/2025,Books,Luna,32,18,1,North
+1047,4/29/2025,Clothing,Nova,110,70,2,East
+1048,4/30/2025,Electronics,Stellar,600,370,1,West
+1049,5/1/2025,Furniture,Pixel,400,250,2,South
+1050,May 02 2025,Toys,Orion,85,50,3,North
